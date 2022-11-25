@@ -1,0 +1,6 @@
+﻿  CTMC.cpp
+C:\Users\Asus\Desktop\Thesis\Thesis\CTMC.cpp(10,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Asus\Desktop\Thesis\Thesis\CTMC.cpp(11,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Asus\Desktop\Thesis\Thesis\CTMC.cpp(12,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Asus\Desktop\Thesis\Thesis\CTMC.cpp(13,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Thesis.vcxproj -> C:\Users\Asus\Desktop\Thesis\x64\Debug\Thesis.exe
